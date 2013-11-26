@@ -1,0 +1,11 @@
+{
+  "name": "backbone-component-exemple",
+  "version": "0.0.0",
+  "dependencies": {
+    "sass-bootstrap": "~2.3.0",
+    "jquery": "*",
+    "lodash": "*",
+    "backbone": "*"
+  },
+  "devDependencies": {}
+}
